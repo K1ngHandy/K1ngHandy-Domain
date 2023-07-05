@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "@notionhq/client": "^2.2.6"
-  }
+  },
+  "name": "k1nghandy-domain",
+  "description": "edited by: Stephen Handy [K1ngHandy]",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
